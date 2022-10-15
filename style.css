@@ -1,0 +1,18 @@
+body
+{
+text-align:center;
+background-color:blanchedalmond;
+}
+
+h1
+{
+color: blue;
+}
+
+#image_1
+{
+border-color:aquamarine;
+border-width:5px;
+border-radius:25%;
+}
+
